@@ -47,7 +47,7 @@ src/
 bash
 Copy
 Edit
-git clone https://github.com/shivam5983/ai-safety-dashboard.git
+git clone  https://github.com/shivam5983/ai-safety-dashboard.git cd ai-safety-dashboard
 cd ai-safety-dashboard
 2. Install Dependencies
 bash
